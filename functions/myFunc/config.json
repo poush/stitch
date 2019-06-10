@@ -1,0 +1,7 @@
+{
+    "id": "5cfe6e965ae6921f857cc647",
+    "name": "myFunc",
+    "private": true,
+    "run_as_system": true,
+    "can_evaluate": {}
+}

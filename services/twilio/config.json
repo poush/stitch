@@ -1,0 +1,12 @@
+{
+    "id": "5cfe79863188d39b00493748",
+    "name": "twilio",
+    "type": "twilio",
+    "config": {
+        "sid": "AC4d9af2da944b68e8fb37b370286aeea7"
+    },
+    "secret_config": {
+        "auth_token": "popsicle"
+    },
+    "version": 1
+}

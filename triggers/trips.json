@@ -1,0 +1,18 @@
+{
+    "id": "5cfea843becb12c25b96959a",
+    "name": "trips",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT"
+        ],
+        "database": "showoff",
+        "collection": "trips",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "full_document": true,
+        "unordered": false
+    },
+    "function_name": "trips",
+    "disabled": false
+}
